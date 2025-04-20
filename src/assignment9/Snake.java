@@ -57,7 +57,7 @@ public class Snake {
     }
 
     /**
-     * The snake attempts to eat the given food, growing if it does so successfully
+     * checks if the snake's head is close
      * @param f the food to be eaten
      * @return true if the snake successfully ate the food
      */
